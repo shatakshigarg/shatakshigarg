@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shatakshigarg&label=Profile%20views&color=0e75b6&style=flat" alt="shatakshigarg" /> </p>
 
-- 🔭 I’m currently working in **leanIn Banasthali**
+- 🔭 I’m currently working in **CRIS, Delhi**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm using JAVA**
 
-- 🤝 I’m looking for help with **CP**
+- 🤝 I’m looking for help with **Django**
 
 - 💬 Ask me about **JAVA 😄**
 
